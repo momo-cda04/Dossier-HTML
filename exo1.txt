@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Page principale </title>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="Style CSS.css"/>   
+    </head>
+            <body>
+                <body style="background-color: black";>
+                <!-- commentaire -->
+                <h1 style="color : blue;"> voici  <strong> les iles paradisiaques </strong> </h1>
+                <p>  
+                Que vous soyez à la recherche de culture, d’aventure ou simplement de vacances pour vous relaxer au soleil… Au moins une de ces îles saura satisfaire vos envies de voyages.
+                </p>
+                <ul>
+                    <li> les Maldives </li>
+                    <div id="pic1"></div>
+                    <p class="para1"> 
+                    Situés dans l’Océan Indien, les Maldives sont un archipel souvent appelé le « Paradis des Tropiques ». Ces îles vous offriront une expérience tropicale inoubliable, 
+                    avec des plages de sable blanc, des eaux turquoises, une faune et flore marine exceptionnelles. De ses plages paradisiaques, à ses spots de surf dont la reputation n’est plus à prouver.
+                    </p>
+                    <p class="lien1"> voir une vidéo <a href="https://www.youtube.com/watch?v=Qy4qgFVhPI4" target="_blank">des Maldives</a></p>
+                    <li> les Seychelles </li>
+                    <div id="pic2"></div>
+                    <p class="para2">
+                    Les Seychelles sont un archipel de 115 îles et îlots situés en plein milieu de l’Océan Indien.
+                    Ses plages de rêve, ses eaux transparentes et son ensoleillement supérieur à 300 jours par an ont fait de cet archipel une des premières destinations pour les voyages de noces
+                    </p>
+                    <p class="lien2"> voir une vidéo <a href="https://www.youtube.com/watch?v=wd716BM1s-E" target="_blank">des Seychelles</a></p>
+                    <li> Hawai </li>
+                    <div id="pic3"></div>
+                    <p class="para3">
+                    L’archipel d’Hawaï est d’une beauté à couper le souffle. Avec ses plages secrètes et ses paysages volcaniques incroyables.
+                    l’archipel d’Hawaï est la destination idéale pour des voyageurs en quête de nouveauté.
+                    </p>
+                    <p class="lien3"> voir une vidéo <a href="https://www.youtube.com/watch?v=4dPyx-qrF0w" target="_blank">d'Hawai</a></p>
+                </ul>   
+            </body>
+
+
+
+</html>
