@@ -1,0 +1,73 @@
+p{
+    font-style:italic;
+    color:whitesmoke;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    color:blue;
+    text-decoration: underline;
+    letter-spacing: 5px;
+    height: 1000;
+    width: 1000;
+    border-width: 2px;
+    border-color: whitesmoke;
+    border-style: solid;
+    border-bottom-right-radius: 30px;
+    text-transform: capitalize;
+
+}
+
+.para1{
+    text-align:right;
+}
+
+
+
+.para2{
+    text-align: right;
+}
+
+
+.para3{
+    text-align:right;
+}
+
+
+.lien1{
+    color:red;
+}
+
+.lien2{
+    color:red;
+}
+
+
+.lien3{
+    color:red;
+}
+
+
+
+div {
+    width: 500px;
+    height:500px;
+    border: 5px solid;
+    margin: 0px auto;
+}
+
+#pic1{
+    background-image: url(Les-Îles-Maldives.jpg);
+    
+}
+
+#pic2{
+    background-image: url(Îles-Seychelles.jpg);
+    
+}
+
+#pic3{
+    background-image: url(Les-Îles-Hawaii-USA.jpg);
+
+}
